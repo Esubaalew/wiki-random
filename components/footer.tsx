@@ -17,7 +17,7 @@ export function Footer() {
           </Link>
           . The source code is available on{" "}
           <Link
-            href="https://github.com/esubaalew/wikirandom-explorer"
+            href="https://github.com/esubaalew/wiki-random"
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium underline underline-offset-4"
